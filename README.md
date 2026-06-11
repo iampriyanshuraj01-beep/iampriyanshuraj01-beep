@@ -15,7 +15,7 @@
 
 I'm a **BCA AIML Student** passionate about building software and solving real-world problems. Currently, I'm focused on:
 
-- 🔭 **Learning:** C, C++, Python, and Data Structures
+- 🔭 **Learning:** C, C++, Python, Data Structures, HTML, CSS, JavaScript DBMS, SQL and Microsoft Tools
 - 🛠️ **Building:** Console applications and problem-solving projects
 - 📚 **Exploring:** Artificial Intelligence & Machine Learning concepts
 - 🎯 **Goal:** Become a skilled full-stack developer
@@ -68,10 +68,10 @@ A comprehensive collection of C programming projects covering fundamental to int
 
 ## 🎯 Current Learning & Goals
 
-- ✅ Master C programming fundamentals
+- ✅ Master C,C++,Python programming fundamentals
 - ✅ Develop strong problem-solving skills
 - 🔄 Learning Data Structures & Algorithms
-- 🔄 Exploring Web Development
+- 🔄 Exploring Web Development, DBMS, Microsoft Tools, AI Tools, Google Tools
 - 🎯 Build real-world applications
 - 🎯 Contribute to open-source projects
 
@@ -81,12 +81,13 @@ A comprehensive collection of C programming projects covering fundamental to int
 
 | Topic | Status | Progress |
 |-------|--------|----------|
-| C Programming | 🟢 In Progress | 70% |
+| C Programming | 🟢 In Progress | 90% |
 | Problem Solving | 🟢 In Progress | 60% |
+| Web Development | 🟢 In Progress | 80% |
+| Data Base Management System | 🟢 IN Progress | 80% |
 | Data Structures | 🟡 Started | 40% |
 | Python | 🟡 Started | 50% |
-| Web Development | 🟡 Planning | 0% |
-| AI/ML | 🟡 Planning | 0% |
+| AI/ML | 🟡 Started | 40% |
 
 ---
 
@@ -99,8 +100,8 @@ I'm always interested in:
 - 🚀 Building cool applications together
 
 **Feel free to reach out:**
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [rajpriyanshu](https://linkedin.com/in/rajpriyanshu)
+- 📧 Email: [your-email@example.com](mailto:iampriyanshuraj01@gamil.com)
+- 💼 LinkedIn: [rajpriyanshu](https://linkedin.com/in/rajpriyanshu1169)
 - 📱 Instagram: [@rajpriyanshu1169](https://instagram.com/rajpriyanshu1169)
 
 ---
